@@ -24,7 +24,3 @@ const seedAll = async () => {
 };
 
 seedAll();
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
